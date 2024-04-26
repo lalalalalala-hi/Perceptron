@@ -1,4 +1,4 @@
-# Code Execution and result
+# Code Execution and Result
 
 1. AND Gate:
 
